@@ -1,2 +1,2 @@
 # documentation-downloader
-An cli tool to download documentation 
+A cli tool to download documentation 
